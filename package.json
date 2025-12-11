@@ -1,5 +1,5 @@
 {
-  "name": "hedgehog-protocol",
+  "name": "hedgehog",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,15 +7,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sggmico/hedgehog-protocol.git"
+    "url": "git+https://github.com/sggmico/hedgehog.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sggmico/hedgehog-protocol/issues"
+    "url": "https://github.com/sggmico/hedgehog/issues"
   },
-  "homepage": "https://github.com/sggmico/hedgehog-protocol#readme",
+  "homepage": "https://github.com/sggmico/hedgehog#readme",
   "description": "",
   "dependencies": {
     "@chainlink/contracts": "^1.5.0",
