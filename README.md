@@ -1,7 +1,7 @@
-# Hedgehog Protocol 🦔
+# Hedgehog 🦔
 ## 简介
 
-Hedgehog Protocol 是新一代去中心化衍生品交易平台，采用创新的混合 AMM 机制和 AI 驱动的风险管理系统，为用户提供永续合约、期权和结构化产品交易。平台通过零知识证明保护交易隐私，利用链上预言机聚合器确保价格准确性，支持跨链资产交易。
+Hedgehog 是新一代去中心化衍生品交易平台，采用创新的混合 AMM 机制和 AI 驱动的风险管理系统，为用户提供永续合约、期权和结构化产品交易。平台通过零知识证明保护交易隐私，利用链上预言机聚合器确保价格准确性，支持跨链资产交易。
 
 ---
 
@@ -176,10 +176,10 @@ contracts/
 
 项目正在积极开发中，我们正在逐步实现核心功能。目前进展：
 
-- ✅ 项目基础设施搭建
-- ✅ Hardhat 开发环境配置
-- 🔄 核心智能合约开发中
-- ⏳ 测试网部署计划中
+- 项目基础设施搭建（已完成）
+- Hardhat 开发环境配置（已完成）
+- 核心智能合约开发（进行中）
+- 测试网部署（计划中）
 
 **近期目标**:
 - 完成核心 Vault 合约
@@ -306,13 +306,6 @@ hedgehog/
 └── audits/            # 审计报告
 ```
 
-### 7.3 开源许可
-
-- 智能合约: MIT License
-- 前端代码: MIT License
-- 后端服务: AGPL-3.0
-- 文档: Creative Commons CC-BY-4.0
-
 ---
 
 ## 八、快速开始
@@ -346,28 +339,19 @@ npm run dev
 我们欢迎社区贡献！请查看 [CONTRIBUTING.md](CONTRIBUTING.md) 了解详情。
 
 **贡献方式**
-- 🐛 提交 Bug 报告
-- 💡 提出功能建议
-- 🔧 提交代码 PR
-- 📖 改进文档
-- 🌍 翻译多语言版本
+- 提交 Bug 报告
+- 提出功能建议
+- 提交代码 PR
+- 改进文档
+- 翻译多语言版本
 
 ---
 
 ## 十、许可证
 
-本项目采用 MIT License - 详见 [LICENSE](LICENSE) 文件
+- 智能合约: MIT License
+- 前端代码: MIT License
+- 后端服务: AGPL-3.0
+- 文档: Creative Commons CC-BY-4.0
 
----
-
-## 十一、联系方式
-
-- 网站: https://hedgehog.finance
-- Twitter: @HedgehogDeFi
-- Discord: https://discord.gg/hedgehog
-- Telegram: https://t.me/hedgehogprotocol
-- Email: dev@hedgehog.finance
-
----
-
-**Built with 🦔 by the Hedgehog Team**
+详见 [LICENSE](LICENSE) 文件
