@@ -62,7 +62,6 @@ broadcast/
 
 # Claude AI
 .claude/
-CLAUDE.md
 
 # Logs
 logs/
